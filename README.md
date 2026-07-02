@@ -6,12 +6,6 @@ Built using **Python, Flask, and Scikit-learn**.
 
 ---
 
-## 🚀 Live Demo
-*(Optional - add later if deployed)*  
-http://127.0.0.1:5000
-
----
-
 ## 📌 Features
 
 - Predict student performance using ML
